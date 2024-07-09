@@ -1,4 +1,4 @@
-<img width="1280" align='center' src="./src/profile.gif">
+<img width="1280" align='center' src="./public/profile.gif">
 
 <h3 align="center">Front-End Developer&nbsp;&nbsp;|&nbsp;&nbsp;Back-End Developer&nbsp;&nbsp;|&nbsp;&nbsp;Full-Stack Developer&nbsp;&nbsp;|&nbsp;&nbsp;Technical Blogger </h3>
 
